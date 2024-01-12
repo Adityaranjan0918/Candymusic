@@ -61,7 +61,10 @@
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
         "value": "",
         "required": true
-      }
+      },
+        "SUPPORT_GROUP": {
+            "discriptio": "Enter your group name.",
+        }
     },
     "buildpacks": [
           {
